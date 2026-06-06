@@ -1,4 +1,4 @@
-# 💧 SmartH2O — `dashboard`
+# SmartH2O — `dashboard`
 
 > **Repositorio:** `smarth2o-esit/dashboard`
 > **Componente:** Dashboard de visualización en Grafana
