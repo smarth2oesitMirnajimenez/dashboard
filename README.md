@@ -125,4 +125,4 @@ Esto asegura que cualquier miembro del equipo pueda reproducir el dashboard exac
 
 ---
 
-> Proyecto SmartH2O · ESIT – Estancia Profesional · Línea IoT, Analítica y Sostenibilidad Digital
+> Proyecto SmartH2O · ESIT – Estancia Profesional · Servicios en la Nube
