@@ -112,7 +112,7 @@ Esto asegura que cualquier miembro del equipo pueda reproducir el dashboard exac
 
 | Rol                      | Nombre                        | GitHub     |
 |--------------------------|-------------------------------|------------|
-| Desarrollador Dashboard Jr.|Mirna Yesenia Jimenez Moreno | [@usuario] |
+| Desarrollador Dashboard Jr.|Mirna Yesenia Jimenez Moreno | @smarth2oesitMirnajimenez |
 
 ---
 
