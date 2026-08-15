@@ -1,0 +1,7 @@
+Recomendaciones de Mejora
+Recomendaciones para el Usuario Final
+•	Revisa las tendencias, no solo los momentos: Consulta el historial semanal o mensual en el panel para identificar patrones de consumo o variaciones inusuales.
+•	Configura y atiende las alertas: Asegúrate de tener activos los canales de notificación (como Telegram) para reaccionar de inmediato ante cualquier anomalía.
+Recomendaciones de Visualización y Alertas (Grafana)
+•	Alertas escalonadas: Definir niveles de gravedad en las alertas (por ejemplo: Advertencia vía notificación silenciosa y Crítico vía mensaje de texto/llamada/Telegram) para evitar el "agotamiento por alertas".
+•	Vistas por roles de usuario: Crear tableros simplificados para administradores ejecutivos (solo resúmenes y KPIs) y tableros detallados para el equipo de mantenimiento o soporte técnico.
